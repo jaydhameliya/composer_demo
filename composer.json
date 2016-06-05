@@ -1,0 +1,19 @@
+{
+    "name": "jay/helper",
+    "description": "test",
+    "authors": [
+        {
+            "name": "jay dhameliya",
+            "email": "jaydb1010@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Jay\\Helper": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
